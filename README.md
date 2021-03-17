@@ -1,9 +1,5 @@
-### Hi there 👋
-
-<!--
-**michal0janczyk/michal0janczyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hi there 👋, I’m Michal Janczyk!
+Recently, Data Engineer, always ambitious and curious about the world, and this curiosity I try to express through various forms of creation that would have a relatively positive impact on the surrounding reality.Specializing in backend infrastructure, low-level systems and learning new technologies or tools if the need arises. A super nerd who loves machine learning, math and self-improvement.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
